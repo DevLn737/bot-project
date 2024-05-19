@@ -1,0 +1,5 @@
+DockerHub: https://hub.docker.com/r/devln/discordbot
+
+GitHub: https://github.com/DevLn737/bot-project
+
+Пригласить бота: https://discord.com/oauth2/authorize?client_id=1241075954219094116
